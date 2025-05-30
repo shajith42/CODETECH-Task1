@@ -7,9 +7,7 @@ ID: CT6WDS1876
 
 DURATION: SEPTEMBER 30TH 2024 TO NOVEMBER 15TH 2024
 
-MENTOR: NEELA SANTHOSH KUMAR
-
-OVERVIEW OF THE PROJECT PROJECT:HOTEL BOOKING SYSTEM
+OVERVIEW OF THE PROJECT PROJECT: HOTEL BOOKING SYSTEM
 OBJECTIVES:Create a database for managing hotel bookings, including rooms, customers, reservations, and payments. This project Involves handling complex queries and managing booking data. Design tables for rooms, customers, reservations, and payments.
 
 KEY ACTIVITES:
